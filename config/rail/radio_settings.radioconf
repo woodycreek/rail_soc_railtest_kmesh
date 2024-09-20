@@ -115,7 +115,7 @@
         </input>
         <input>
           <key>payload_white_en</key>
-          <value>false</value>
+          <value>true</value>
         </input>
         <input>
           <key>payload_crc_en</key>
@@ -167,6 +167,10 @@
         </input>
         <input>
           <key>var_length_bitendian</key>
+          <value>1</value>
+        </input>
+        <input>
+          <key>white_poly</key>
           <value>1</value>
         </input>
       </profile_inputs>
