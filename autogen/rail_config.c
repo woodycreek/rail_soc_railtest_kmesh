@@ -109,7 +109,7 @@ static const uint32_t phyInfo[] = {
 
 const uint32_t Protocol_Configuration_modemConfigBase[] = {
   0x0002400CUL, 0x0001B104UL,
-  /*    4010 */ 0x00004100UL,
+  /*    4010 */ 0x00004800UL,
   0x00024020UL, 0x00000000UL,
   /*    4024 */ 0x00000000UL,
   0x00074030UL, 0x00000000UL,

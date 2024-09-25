@@ -173,6 +173,10 @@
           <key>white_poly</key>
           <value>1</value>
         </input>
+        <input>
+          <key>var_length_maxlength</key>
+          <value>2047</value>
+        </input>
       </profile_inputs>
     </base_channel_configuration>
   </base_channel_configurations>
